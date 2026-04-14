@@ -4,6 +4,8 @@ using RustyMangoAPI.Requests;
 
 namespace RustyMangoAPI.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
@@ -13,15 +15,13 @@ namespace RustyMangoAPI.Controllers
             _userService = userService;
         }
 
-        [HttpPost]
-        [Route("registrationUser")]
+        [HttpPost("registrationUser")]
         public async Task<IActionResult> Registration([FromBody] RegisterRequest request)
         {
             return await _userService.Register(request);
         }
 
-        [HttpPost]
-        [Route("authUser")]
+        [HttpPost("authUser")]
         public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
             return await _userService.Login(request);
@@ -32,6 +32,5 @@ namespace RustyMangoAPI.Controllers
         {
             return await _userService.GetUser(id);
         }
-
     }
 }

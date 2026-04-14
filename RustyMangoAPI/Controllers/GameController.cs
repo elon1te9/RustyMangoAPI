@@ -1,9 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RustyMangoAPI.Interfaces;
 using RustyMangoAPI.Requests;
 
 namespace RustyMangoAPI.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
+    [Authorize]
     public class GameController : ControllerBase
     {
         private readonly IGameService _gameService;
@@ -20,7 +24,7 @@ namespace RustyMangoAPI.Controllers
         }
 
         [HttpPost("completeLevel")]
-        public async Task<IActionResult> CompleteLevel(CompleteLevelRequest request)
+        public async Task<IActionResult> CompleteLevel([FromBody] CompleteLevelRequest request)
         {
             return await _gameService.CompleteLevel(request);
         }
@@ -32,4 +36,3 @@ namespace RustyMangoAPI.Controllers
         }
     }
 }
-

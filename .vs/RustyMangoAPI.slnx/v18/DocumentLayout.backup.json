@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\models\\userprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\requests\\completelevelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\requests\\completelevelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\requests\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|d:\\study\\unityproject\\rustymangogame\\rustymangoapi\\rustymangoapi\\migrations\\20260413060058_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4821D0-873C-8A9F-D5FE-078154B3F137}|RustyMangoAPI\\RustyMangoAPI.csproj|solutionrelative:rustymangoapi\\migrations\\20260413060058_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +78,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:10:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Controllers\\GameController.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:38:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\appsettings.json",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\appsettings.json",
+              "RelativeToolTip": "RustyMangoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T05:52:41.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Program.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Program.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:49:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Services\\UserService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:16:35.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Services\\JwtService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:10:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Models\\User.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Models\\User.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:56:38.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProgress.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Models\\UserProgress.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Models\\UserProgress.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Models\\UserProgress.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Models\\UserProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:06:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompleteLevelRequest.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\CompleteLevelRequest.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Requests\\CompleteLevelRequest.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\CompleteLevelRequest.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Requests\\CompleteLevelRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:00:25.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Services\\GameService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\GameService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:27:25.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:14:35.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Interfaces\\IJwtService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:09:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260413060058_first.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Migrations\\20260413060058_first.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Migrations\\20260413060058_first.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Migrations\\20260413060058_first.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Migrations\\20260413060058_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:00:59.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Interfaces\\IGameService.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Interfaces\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:15:24.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T02:09:37.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Requests\\LoginRequest.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:59:29.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "RustyMangoAPI\\Requests\\RegisterRequest.cs",
+              "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Requests\\RegisterRequest.cs",
+              "RelativeToolTip": "RustyMangoAPI\\Requests\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T01:58:52.511Z"
             }
           ]
         }

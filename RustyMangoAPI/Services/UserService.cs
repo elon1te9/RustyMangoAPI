@@ -11,10 +11,12 @@ namespace RustyMangoAPI.Services
     public class UserService : IUserService
     {
         private readonly AppDbContext _context;
+        private readonly IJwtService _jwtService;
 
-        public UserService(AppDbContext context)
+        public UserService(AppDbContext context, IJwtService jwtService)
         {
             _context = context;
+            _jwtService = jwtService;
         }
 
         public async Task<IActionResult> Register(RegisterRequest request)
@@ -69,7 +71,7 @@ namespace RustyMangoAPI.Services
                 {
                     user.Id,
                     user.Login,
-                    user.Name, 
+                    user.Name,
                     user.TotalScore
                 }
             });
@@ -83,9 +85,12 @@ namespace RustyMangoAPI.Services
             if (user == null)
                 return new BadRequestObjectResult(new { error = "Неверный логин или пароль" });
 
+            var token = _jwtService.GenerateToken(user);
+
             return new OkObjectResult(new
             {
                 status = true,
+                token = token,
                 user = new
                 {
                     user.Id,

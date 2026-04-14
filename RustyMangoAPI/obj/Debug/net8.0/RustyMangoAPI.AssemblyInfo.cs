@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RustyMangoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16b67d20caec891deb2471e07d7d8afbd01577e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RustyMangoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RustyMangoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
