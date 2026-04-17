@@ -94,8 +94,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T02:10:20.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T02:10:20.67Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Controllers\\GameController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T02:38:48.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T02:38:48.841Z"
             },
             {
               "$type": "Document",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "RustyMangoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-13T05:52:41.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T05:52:41.56Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T05:49:30.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T05:49:30.774Z"
             },
             {
               "$type": "Document",
@@ -144,7 +140,7 @@
               "RelativeDocumentMoniker": "RustyMangoAPI\\Services\\UserService.cs",
               "ToolTip": "D:\\study\\unityProject\\RustyMangoGame\\RustyMangoAPI\\RustyMangoAPI\\Services\\UserService.cs",
               "RelativeToolTip": "RustyMangoAPI\\Services\\UserService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T02:16:35.367Z",
               "EditorCaption": ""
@@ -159,8 +155,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Services\\JwtService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T06:10:29.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T06:10:29.417Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T01:56:38.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T01:56:38.66Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "RustyMangoAPI\\Models\\UserProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T02:06:45.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T02:06:45.605Z"
             },
             {
               "$type": "Document",
